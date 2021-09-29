@@ -1,8 +1,14 @@
-# Getting Started with BillyQuote
+
+![Screenshot 1](https://github.com/mikekrell/BillyQuote/blob/main/public/quotes2.jpg)
+![Screenshot 2](https://github.com/mikekrell/BillyQuote/blob/main/public/quotes.jpg)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Using MobX for state management and tailwindcss for style.
+
+used computed views in MobX to have live calculations in modal.
+
 
 ## Available Scripts
 
