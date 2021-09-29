@@ -1,2 +1,1 @@
-# BillyQuote
-A quoting tool built for POS/Sales team to use. ReactJs, Mobx
+A quoting tool built on ReactJs, with Mobx for state, and tailwind css for styling.
